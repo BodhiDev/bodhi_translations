@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-05 21:26-0400\n"
+"POT-Creation-Date: 2021-05-05 21:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,79 +12,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 
-#: input/moksha.html+html.head.title:5-5
+#: html/moksha.html+html.head.title:5-5
 msgid "Bodhi QuickStart - Moksha Basics"
 msgstr ""
 
-#: input/moksha.html+html.body.header.a:-1--1
+#: html/moksha.html+html.body.header.a:-1--1
 msgid "(Bodhi Linux Logo)"
 msgstr ""
 
-#: input/moksha.html+html.body.header.a:-1--1
+#: html/moksha.html+html.body.header.a:-1--1
 msgid "(Moksha Logo)"
 msgstr ""
 
-#: input/moksha.html+html.body.header.nav.ul.li:19-11
+#: html/moksha.html+html.body.header.nav.ul.li:19-11
 msgid ""
 "QuickStart Index</a><a class=\"nav\" target=\"_parent\" href=\"index.html\">"
 "QuickStart Index"
 msgstr ""
 
-#: input/moksha.html+html.body.header.nav.ul.li.ul.li:21-11
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:21-11
 msgid ""
 "<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
 "class=\"nav\" target=\"_parent\" href=\"#\">Getting Started</a> <ul>"
 msgstr ""
 
-#: input/moksha.html+html.body.header.nav.ul.li.ul.li:24-15
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:24-15
 msgid "Connecting to the Internet"
 msgstr ""
 
-#: input/moksha.html+html.body.header.nav.ul.li.ul.li:25-15
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:25-15
 msgid "Installing Software"
 msgstr ""
 
-#: input/moksha.html+html.body.header.nav.ul.li.ul.li:28-11
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:28-11
 msgid ""
 "<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Getting "
 "Started</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
 msgstr ""
 
-#: input/moksha.html+html.body.header.nav.ul.li.ul.li:31-15
-msgctxt "input/moksha.html html.body.header.nav.ul.li.ul.li:31-15"
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:31-15
+msgctxt "html/moksha.html html.body.header.nav.ul.li.ul.li:31-15"
 msgid "Moksha Basics"
 msgstr ""
 
-#: input/moksha.html+html.body.header.nav.ul.li.ul.li:32-15
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:32-15
 msgid "Quick Launcher"
 msgstr ""
 
-#: input/moksha.html+html.body.header.nav.ul.li.ul.li:35-11
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:35-11
 msgid ""
 "<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Credits</a><a "
 "class=\"nav\" target=\"_parent\" href=\"#\">Even More Info</a> <ul>"
 msgstr ""
 
-#: input/moksha.html+html.body.header.nav.ul.li.ul.li:38-15
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:38-15
 msgid "Quick FAQ"
 msgstr ""
 
-#: input/moksha.html+html.body.header.nav.ul.li.ul.li:39-15
+#: html/moksha.html+html.body.header.nav.ul.li.ul.li:39-15
 msgid "Resources"
 msgstr ""
 
-#: input/moksha.html+html.body.header.nav.ul.li:42-11
+#: html/moksha.html+html.body.header.nav.ul.li:42-11
 msgid ""
 "Even More Info</a><a class=\"nav\" target=\"_parent\" href=\"appendix.html\""
 ">Credits"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.h1:52-11
-msgctxt "input/moksha.html html.body.div.div.div.h1:52-11"
+#: html/moksha.html+html.body.div.div.div.h1:52-11
+msgctxt "html/moksha.html html.body.div.div.div.h1:52-11"
 msgid "Moksha Basics"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.p:67-9
+#: html/moksha.html+html.body.div.div.div.p:67-9
 msgid ""
 "<strong> Organize your Tasks with Virtual Desktops </strong> <br> <br class="
 "\"onmobile clear\" /> <a class=\"img normalpicture displaysmall\" href=\""
@@ -95,33 +95,33 @@ msgid ""
 "virtual desktops, but you can change this number."
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.p:78-11
+#: html/moksha.html+html.body.div.div.div.p:78-11
 msgid ""
 "The pager gadget on the shelf shows small graphics of the available desktops "
 "with the applications running in each."
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.p:81-11
+#: html/moksha.html+html.body.div.div.div.p:81-11
 msgid "There are several ways to switch among them:"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.ul.li:85-13
+#: html/moksha.html+html.body.div.div.div.ul.li:85-13
 msgid ""
 "With the Pager Gadget, simply click on the graphic of the Desktop you wish "
 "to be in."
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.ul.li:86-13
+#: html/moksha.html+html.body.div.div.div.ul.li:86-13
 msgid ""
 "Use the keyboard shortcut: Ctrl+Alt + &lt;ArrowKey> in the direction you "
 "wish to move."
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.ul.li:87-13
+#: html/moksha.html+html.body.div.div.div.ul.li:87-13
 msgid "Choose your desired desktop via <i>Main Menu>Desktop>Virtual</i>."
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div:96-9
+#: html/moksha.html+html.body.div.div.div:96-9
 msgid ""
 "<strong> The Entire Desktop is the Menu </strong> <br /> <br> A click on any "
 "empty space of the desktop will bring up the Main Menu, where you can launch "
@@ -137,7 +137,7 @@ msgid ""
 "Favorite Applications</i>"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div:122-9
+#: html/moksha.html+html.body.div.div.div:122-9
 msgid ""
 "<strong id=\"gadget\"> Many Gadgets Show System Info </strong> <br /> <br> "
 "Gadgets perform a wide variety of functions. Many display system "
@@ -148,7 +148,7 @@ msgid ""
 "found and added to the Desktop via: <i>Main Menu>Settings>Gadgets</i>"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div:140-9
+#: html/moksha.html+html.body.div.div.div:140-9
 msgid ""
 "<strong id=\"module\"> Modules Control Gadget Availability </strong> <br /> "
 "<br> A gadget will be available only if its module is loaded. Put simply, a "
@@ -158,7 +158,7 @@ msgid ""
 "the Bodhi AppCenter and Synaptic Package Manager"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div:153-9
+#: html/moksha.html+html.body.div.div.div:153-9
 msgid ""
 "<strong class=\"centertext\"> Shelves - The Taskbar/Systray/Dock's Home, "
 "Sweet Home </strong> <br /> <br> Moksha provides shelves to house your "
@@ -174,7 +174,7 @@ msgid ""
 "../images/shelves.png\" alt=\"(A standard Shelf with many Gadgets)\" /> </a>"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.p:171-9
+#: html/moksha.html+html.body.div.div.div.p:171-9
 msgid ""
 "<strong> Shading - Alternative to Minimizing </strong> <br /> <br> Want to "
 "get a window out of your way but don't want to minimize it to the taskbar? "
@@ -182,14 +182,14 @@ msgid ""
 "up\", and double click the title bar to \"roll it down\" again."
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.p:181-11
+#: html/moksha.html+html.body.div.div.div.p:181-11
 msgid ""
 "The screenshot here shows two instances of <b>Terminology</b>, one that is "
 "Shaded and one that is not. Terminology is currently the default terminal in "
 "Bodhi."
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.ul.li:207-9
+#: html/moksha.html+html.body.div.div.div.ul.li:207-9
 msgid ""
 "<strong> Some Handy Shortcuts: </strong> <br /> <br> Shortcuts are referred "
 "to as Bindings in Moksha and can be actioned by e.g. clicking the mouse at "
@@ -197,23 +197,23 @@ msgid ""
 "click. They are categorized as follows:<br /> <ul class=\"smalltext\">"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.ul.li:215-13
+#: html/moksha.html+html.body.div.div.div.ul.li:215-13
 msgid "Edge Bindings (edges of screen)"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.ul.li:216-13
+#: html/moksha.html+html.body.div.div.div.ul.li:216-13
 msgid "Key Bindings (keyboard)"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.ul.li:217-13
+#: html/moksha.html+html.body.div.div.div.ul.li:217-13
 msgid "Mouse Bindings (mouse+key)"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.ul.li:218-13
+#: html/moksha.html+html.body.div.div.div.ul.li:218-13
 msgid "ACPI Bindings (events)"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.p:221-11
+#: html/moksha.html+html.body.div.div.div.p:221-11
 msgid ""
 "<strong>Alt+&lt;left-click> (mouse)</strong> <br /> allows you to click "
 "<strong>anywhere</strong> in the window to grab it and reposition <br /><br "
@@ -230,7 +230,7 @@ msgid ""
 "between windows on the same desktop"
 msgstr ""
 
-#: input/moksha.html+html.body.div.div.div.p:263-11
+#: html/moksha.html+html.body.div.div.div.p:263-11
 msgid ""
 "For more information and a comprehensive list of all default keybindings, "
 "see our <a class=\"normal\" href=\"https://www.bodhilinux.com/w/key-bindings-"

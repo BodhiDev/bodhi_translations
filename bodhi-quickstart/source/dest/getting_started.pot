@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-05 21:26-0400\n"
+"POT-Creation-Date: 2021-05-05 21:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,78 +12,78 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 
-#: input/getting_started.html+html.head.title:5-5
-msgctxt "input/getting_started.html html.head.title:5-5"
+#: html/getting_started.html+html.head.title:5-5
+msgctxt "html/getting_started.html html.head.title:5-5"
 msgid "Getting Started - Navigation"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.a:-1--1
+#: html/getting_started.html+html.body.header.a:-1--1
 msgid "(Bodhi Linux Logo)"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.a:-1--1
+#: html/getting_started.html+html.body.header.a:-1--1
 msgid "(Moksha Logo)"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.nav.ul.li:19-11
+#: html/getting_started.html+html.body.header.nav.ul.li:19-11
 msgid ""
 "QuickStart Index</a><a class=\"nav\" target=\"_parent\" href=\"index.html\">"
 "QuickStart Index"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.nav.ul.li.ul.li:21-11
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:21-11
 msgid ""
 "<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
 "class=\"nav\" target=\"_parent\" href=\"#\">Getting Started</a> <ul>"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.nav.ul.li.ul.li:24-15
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:24-15
 msgid "Connecting to the Internet"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.nav.ul.li.ul.li:25-15
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:25-15
 msgid "Installing Software"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.nav.ul.li.ul.li:28-11
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:28-11
 msgid ""
 "<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Getting "
 "Started</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.nav.ul.li.ul.li:31-15
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:31-15
 msgid "Moksha Basics"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.nav.ul.li.ul.li:32-15
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:32-15
 msgid "Quick Launcher"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.nav.ul.li.ul.li:35-11
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:35-11
 msgid ""
 "<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Credits</a><a "
 "class=\"nav\" target=\"_parent\" href=\"#\">Even More Info</a> <ul>"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.nav.ul.li.ul.li:38-15
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:38-15
 msgid "Quick FAQ"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.nav.ul.li.ul.li:39-15
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:39-15
 msgid "Resources"
 msgstr ""
 
-#: input/getting_started.html+html.body.header.nav.ul.li:42-11
+#: html/getting_started.html+html.body.header.nav.ul.li:42-11
 msgid ""
 "Even More Info</a><a class=\"nav\" target=\"_parent\" href=\"appendix.html\""
 ">Credits"
 msgstr ""
 
-#: input/getting_started.html+html.body.div.div.div.div.h1:51-13
-msgctxt "input/getting_started.html html.body.div.div.div.div.h1:51-13"
+#: html/getting_started.html+html.body.div.div.div.div.h1:51-13
+msgctxt "html/getting_started.html html.body.div.div.div.div.h1:51-13"
 msgid "Getting Started - Navigation"
 msgstr ""
 
-#: input/getting_started.html+html.body.div.div.div.div.h2:52-13
+#: html/getting_started.html+html.body.div.div.div.div.h2:52-13
 msgid "Please use the buttons below to navigate to the page"
 msgstr ""

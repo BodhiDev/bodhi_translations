@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-05 21:26-0400\n"
+"POT-Creation-Date: 2021-05-05 21:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,79 +12,79 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 
-#: input/internet.html+html.head.title:5-5
+#: html/internet.html+html.head.title:5-5
 msgid "Bodhi QuickStart - Connecting to the Internet"
 msgstr ""
 
-#: input/internet.html+html.body.header.a:-1--1
+#: html/internet.html+html.body.header.a:-1--1
 msgid "(Bodhi Linux Logo)"
 msgstr ""
 
-#: input/internet.html+html.body.header.a:-1--1
+#: html/internet.html+html.body.header.a:-1--1
 msgid "(Moksha Logo)"
 msgstr ""
 
-#: input/internet.html+html.body.header.nav.ul.li:19-11
+#: html/internet.html+html.body.header.nav.ul.li:19-11
 msgid ""
 "QuickStart Index</a><a class=\"nav\" target=\"_parent\" href=\"index.html\">"
 "QuickStart Index"
 msgstr ""
 
-#: input/internet.html+html.body.header.nav.ul.li.ul.li:21-11
+#: html/internet.html+html.body.header.nav.ul.li.ul.li:21-11
 msgid ""
 "<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
 "class=\"nav\" target=\"_parent\" href=\"#\">Getting Started</a> <ul>"
 msgstr ""
 
-#: input/internet.html+html.body.header.nav.ul.li.ul.li:24-15
-msgctxt "input/internet.html html.body.header.nav.ul.li.ul.li:24-15"
+#: html/internet.html+html.body.header.nav.ul.li.ul.li:24-15
+msgctxt "html/internet.html html.body.header.nav.ul.li.ul.li:24-15"
 msgid "Connecting to the Internet"
 msgstr ""
 
-#: input/internet.html+html.body.header.nav.ul.li.ul.li:25-15
+#: html/internet.html+html.body.header.nav.ul.li.ul.li:25-15
 msgid "Installing Software"
 msgstr ""
 
-#: input/internet.html+html.body.header.nav.ul.li.ul.li:28-11
+#: html/internet.html+html.body.header.nav.ul.li.ul.li:28-11
 msgid ""
 "<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Getting "
 "Started</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
 msgstr ""
 
-#: input/internet.html+html.body.header.nav.ul.li.ul.li:31-15
+#: html/internet.html+html.body.header.nav.ul.li.ul.li:31-15
 msgid "Moksha Basics"
 msgstr ""
 
-#: input/internet.html+html.body.header.nav.ul.li.ul.li:32-15
+#: html/internet.html+html.body.header.nav.ul.li.ul.li:32-15
 msgid "Quick Launcher"
 msgstr ""
 
-#: input/internet.html+html.body.header.nav.ul.li.ul.li:35-11
+#: html/internet.html+html.body.header.nav.ul.li.ul.li:35-11
 msgid ""
 "<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Credits</a><a "
 "class=\"nav\" target=\"_parent\" href=\"#\">Even More Info</a> <ul>"
 msgstr ""
 
-#: input/internet.html+html.body.header.nav.ul.li.ul.li:38-15
+#: html/internet.html+html.body.header.nav.ul.li.ul.li:38-15
 msgid "Quick FAQ"
 msgstr ""
 
-#: input/internet.html+html.body.header.nav.ul.li.ul.li:39-15
+#: html/internet.html+html.body.header.nav.ul.li.ul.li:39-15
 msgid "Resources"
 msgstr ""
 
-#: input/internet.html+html.body.header.nav.ul.li:42-11
+#: html/internet.html+html.body.header.nav.ul.li:42-11
 msgid ""
 "Even More Info</a><a class=\"nav\" target=\"_parent\" href=\"appendix.html\""
 ">Credits"
 msgstr ""
 
-#: input/internet.html+html.body.div.div.div.h1:52-11
-msgctxt "input/internet.html html.body.div.div.div.h1:52-11"
+#: html/internet.html+html.body.div.div.div.h1:52-11
+msgctxt "html/internet.html html.body.div.div.div.h1:52-11"
 msgid "Connecting to the Internet"
 msgstr ""
 
-#: input/internet.html+html.body.div.div.div.p:60-9
+#: html/internet.html+html.body.div.div.div.p:60-9
 msgid ""
 "<br /><br /> Bodhi makes connecting to the internet or your local network "
 "easy with the use of Network Manager (nm-applet).<br /><br /> <span class=\""
@@ -94,7 +94,7 @@ msgid ""
 "this in your Shelf.<br /><br />"
 msgstr ""
 
-#: input/internet.html+html.body.div.div.div:76-9
+#: html/internet.html+html.body.div.div.div:76-9
 msgid ""
 "All you have to do is left-click on it. Then choose the type of connection "
 "from the available list. Network Manager is capable of managing many types "
@@ -104,7 +104,7 @@ msgid ""
 "connection should be established. <br />"
 msgstr ""
 
-#: input/internet.html+html.body.div.div.div.p:94-11
+#: html/internet.html+html.body.div.div.div.p:94-11
 msgid ""
 "Connections can then be edited by clicking on the icon, selecting Network "
 "Manager, then <strong>Edit</strong> to open the settings manager. Also, "
@@ -113,7 +113,7 @@ msgid ""
 "question automatically connect as soon as it is detected."
 msgstr ""
 
-#: input/internet.html+html.body.div.div.div.p:100-11
+#: html/internet.html+html.body.div.div.div.p:100-11
 msgid ""
 "Connection problems can be notoriously difficult to diagnose, especially on "
 "a system that is not able to make a connection at all. If these steps fail, "
