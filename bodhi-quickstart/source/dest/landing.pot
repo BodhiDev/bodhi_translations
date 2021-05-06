@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-05 21:26-0400\n"
+"POT-Creation-Date: 2021-05-05 21:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,81 +12,81 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 2.2.5\n"
 
-#: input/landing.html+html.head.title:5-5
+#: html/landing.html+html.head.title:5-5
 msgid "Bodhi Basics"
 msgstr ""
 
-#: input/landing.html+html.body.div.div.h4:18-9
+#: html/landing.html+html.body.div.div.h4:18-9
 msgid ""
 "Welcome and thank you for trying Bodhi Linux: the minimalistic Enlightened "
 "Linux desktop!"
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p:26-13
+#: html/landing.html+html.body.div.div.div.div.p:26-13
 msgid ""
 "<strong>Bodhi</strong> is a lightweight Linux distribution that uses the "
 "Moksha window manager."
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p:27-13
+#: html/landing.html+html.body.div.div.div.div.p:27-13
 msgid ""
 "Our philosophy is to provide a minimal base system. Users can install any "
 "additional software they want."
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p:35-13
+#: html/landing.html+html.body.div.div.div.div.p:35-13
 msgid ""
 "You will need an Internet connection established to do system updates or "
 "install software in <strong>Bodhi</strong>."
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p:36-13
+#: html/landing.html+html.body.div.div.div.div.p:36-13
 msgid ""
 "Please follow this link if you need assistance: <span class=\"greentext "
 "boldtext largelh\"><a class=\"normal\" href=\"internet.html\"><strong>"
 "Connecting to the Internet</strong></a></span>."
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p.br:44-13
+#: html/landing.html+html.body.div.div.div.div.p.br:44-13
 msgid "System updates are important from a security perspective.<br><br>"
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p.br:45-13
+#: html/landing.html+html.body.div.div.div.div.p.br:45-13
 msgid ""
 "The preferred way to perform system updates is to open a terminal and run "
 "the command:<br><br>"
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.div.br:46-13
+#: html/landing.html+html.body.div.div.div.div.div.br:46-13
 msgid ""
 "<span class=\"greentext boldtext largelh\"><code>sudo apt update && sudo apt "
 "dist-upgrade</code></span><br /><br /> <br>"
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p.br:56-13
+#: html/landing.html+html.body.div.div.div.div.p.br:56-13
 msgid ""
 "A firewall is also important from a security perspective. Bodhi uses itables "
 "and includes the Uncomplicated Firewall (ufw). It is not enabled by default "
 "as not all users may need it.<br>"
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p.br:57-13
+#: html/landing.html+html.body.div.div.div.div.p.br:57-13
 msgid "To enable it, open a terminal and run the command:<br><br>"
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.div:58-13
+#: html/landing.html+html.body.div.div.div.div.div:58-13
 msgid ""
 "<span class=\"greentext boldtext largelh\"><code>sudo ufw "
 "enable</code></span><br /><br />"
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p:61-13
+#: html/landing.html+html.body.div.div.div.div.p:61-13
 msgid ""
 "Ufw has a sensible set of default settings (profile), which are fine for the "
 "vast majority of home users."
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p.br:69-13
+#: html/landing.html+html.body.div.div.div.div.p.br:69-13
 msgid ""
 "Want to find our more, read our <a class=\"normal\" href=\"index.html\""
 "><strong>Quick Start</strong></a>, visit our <a class=\"normal\" href=\""
@@ -96,18 +96,18 @@ msgid ""
 "books</strong></a> on Bodhi.<br><br>"
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p:70-13
+#: html/landing.html+html.body.div.div.div.div.p:70-13
 msgid "Need friendly help?"
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p.br:71-13
+#: html/landing.html+html.body.div.div.div.div.p.br:71-13
 msgid ""
 "Post on our <a class=\"normal\" href=\"https://bodhilinux.boards.net/\""
 "><strong>Forum</strong></a> or ask on <a class=\"normal\" href=\""
 "https://discordapp.com/invite/pvB7MSf\"><strong>Discord</strong></a>.<br><br>"
 msgstr ""
 
-#: input/landing.html+html.body.div.div.div.div.p:72-13
+#: html/landing.html+html.body.div.div.div.div.p:72-13
 msgid ""
 "Want to buy us a cup of coffee? <a class=\"normal\" href=\""
 "https://www.bodhilinux.com/donate/\"><strong>Consider Donating.</strong></a>"
