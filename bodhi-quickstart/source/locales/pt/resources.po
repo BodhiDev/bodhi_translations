@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bodhi Translations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-05 21:31-0400\n"
+"PO-Revision-Date: 2021-05-16 19:13+0100\n"
+"Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt\n"
+
+#: html/resources.html+html.head.title:5-5
+msgid "Bodhi QuickStart - Resources"
+msgstr "Iniciação Rápida do Bodhi - Recursos"
+
+#: html/resources.html+html.body.header.a:-1--1
+msgid "(Bodhi Linux Logo)"
+msgstr "(Bodhi Linux Logo)"
+
+#: html/resources.html+html.body.header.a:-1--1
+msgid "(Moksha Logo)"
+msgstr "(Moksha Logo)"
+
+#: html/resources.html+html.body.header.nav.ul.li:19-11
+msgid ""
+"QuickStart Index</a><a class=\"nav\" target=\"_parent\" href=\"index.html"
+"\">QuickStart Index"
+msgstr ""
+"Índice de Iniciação Rápida</a><a class=\"nav\" target=\"_parent\" href="
+"\"index.html\">Índice de Iniciação Rápida"
+
+#: html/resources.html+html.body.header.nav.ul.li.ul.li:21-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Getting Started</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"Moksha.html\">Moksha</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Introdução</a> <ul>"
+
+#: html/resources.html+html.body.header.nav.ul.li.ul.li:24-15
+msgid "Connecting to the Internet"
+msgstr "Ligação à Internet"
+
+#: html/resources.html+html.body.header.nav.ul.li.ul.li:25-15
+msgid "Installing Software"
+msgstr "Instalar Software"
+
+#: html/resources.html+html.body.header.nav.ul.li.ul.li:28-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Getting "
+"Started</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html"
+"\">Introdução</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> "
+"<ul>"
+
+#: html/resources.html+html.body.header.nav.ul.li.ul.li:31-15
+msgid "Moksha Basics"
+msgstr "Noções básicas do Moksha"
+
+#: html/resources.html+html.body.header.nav.ul.li.ul.li:32-15
+msgid "Quick Launcher"
+msgstr "Lançador rápido"
+
+#: html/resources.html+html.body.header.nav.ul.li.ul.li:35-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Credits</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Even More Info</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Créditos</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Mais informações</a> <ul>"
+
+#: html/resources.html+html.body.header.nav.ul.li.ul.li:38-15
+msgid "Quick FAQ"
+msgstr "Perguntas mais frequentes"
+
+#: html/resources.html+html.body.header.nav.ul.li.ul.li:39-15
+msgctxt "html/resources.html html.body.header.nav.ul.li.ul.li:39-15"
+msgid "Resources"
+msgstr "Recursos"
+
+#: html/resources.html+html.body.header.nav.ul.li:42-11
+msgid ""
+"Even More Info</a><a class=\"nav\" target=\"_parent\" href=\"appendix.html"
+"\">Credits"
+msgstr ""
+"Mais informações</a><a class=\"nav\" target=\"_parent\" href=\"appendix.html"
+"\">Créditos"
+
+#: html/resources.html+html.body.div.div.div.h1:52-11
+msgctxt "html/resources.html html.body.div.div.div.h1:52-11"
+msgid "Resources"
+msgstr "Recursos"
+
+#: html/resources.html+html.body.div.div.div.div:60-9
+msgid ""
+"<strong>You will need internet access to reach these resources, so if you "
+"have not yet made a connection please see the <a class=\"normal\" href="
+"\"internet.html\">Connecting to the Internet</a> section.</strong> <br /"
+"><br />"
+msgstr ""
+"<strong>Precisa de acesso à Internet para aceder a estes recursos, por isso "
+"se ainda não fez uma ligação por favor veja a secção da <a class=\"normal\" "
+"href=\"internet.html\">Ligação à Internet</a> .</strong> <br /><br />"
+
+#: html/resources.html+html.body.div.div.div.div.a.div.h1:70-17
+msgid "Bodhi Linux Site"
+msgstr "Site Bodhi Linux"
+
+#: html/resources.html+html.body.div.div.div.div.h2:73-13
+msgid "The official Bodhi Linux site."
+msgstr "O site oficial do Bodhi Linux."
+
+#: html/resources.html+html.body.div.div.div.div.a.div.h1:81-17
+msgid "Bodhi Wiki"
+msgstr "Bodhi Wiki"
+
+#: html/resources.html+html.body.div.div.div.div.h2:84-13
+msgid "Documentation by Bodhi Users for Bodhi Users."
+msgstr "Documentação de Utilizadores Bodhi para Utilizadores Bodhi."
+
+#: html/resources.html+html.body.div.div.div.div.a.div.h1:92-17
+msgid "Bodhi Linux AppCenter"
+msgstr "Bodhi Linux AppCenter"
+
+#: html/resources.html+html.body.div.div.div.div.h2:95-13
+msgid "Official Bodhi Linux software packages."
+msgstr "Pacotes oficiais de software do Bodhi Linux."
+
+#: html/resources.html+html.body.div.div.div.div.a.div.h1:103-17
+msgid "Bodhi Linux Forums"
+msgstr "Bodhi Linux Fóruns"
+
+#: html/resources.html+html.body.div.div.div.div.h2:106-13
+msgid "Ask/answer questions and get info on our Forums board."
+msgstr ""
+"Pergunte/responda a perguntas e obtenha informações no nosso Quadro de "
+"Fóruns."
+
+#: html/resources.html+html.body.div.div.div.div.a.div.h1:114-17
+msgid "Live Chat (Discord)"
+msgstr "Chat ao vivo (Discord)"
+
+#: html/resources.html+html.body.div.div.div.div.h2:117-13
+msgid "Ask/answer questions and get info on Discord."
+msgstr "Pergunte/responda a perguntas e obtenha informações no Discord."

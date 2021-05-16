@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bodhi Translations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-05 21:31-0400\n"
+"PO-Revision-Date: 2021-05-16 19:09+0100\n"
+"Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt\n"
+
+#: html/getting_started.html+html.head.title:5-5
+msgctxt "html/getting_started.html html.head.title:5-5"
+msgid "Getting Started - Navigation"
+msgstr "Introdução - Navegação"
+
+#: html/getting_started.html+html.body.header.a:-1--1
+msgid "(Bodhi Linux Logo)"
+msgstr "(Bodhi Linux Logo)"
+
+#: html/getting_started.html+html.body.header.a:-1--1
+msgid "(Moksha Logo)"
+msgstr "(Moksha Logo)"
+
+#: html/getting_started.html+html.body.header.nav.ul.li:19-11
+msgid ""
+"QuickStart Index</a><a class=\"nav\" target=\"_parent\" href=\"index.html"
+"\">QuickStart Index"
+msgstr ""
+"Índice de Iniciação Rápida</a><a class=\"nav\" target=\"_parent\" href="
+"\"index.html\">Índice de Iniciação Rápida"
+
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:21-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"moksha.html\">Moksha</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Getting Started</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"Moksha.html\">Moksha</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Introdução</a> <ul>"
+
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:24-15
+msgid "Connecting to the Internet"
+msgstr "Ligação à Internet"
+
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:25-15
+msgid "Installing Software"
+msgstr "Instalar Software"
+
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:28-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html\">Getting "
+"Started</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"getting_started.html"
+"\">Introdução</a><a class=\"nav\" target=\"_parent\" href=\"#\">Moksha</a> "
+"<ul>"
+
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:31-15
+msgid "Moksha Basics"
+msgstr "Noções básicas do Moksha"
+
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:32-15
+msgid "Quick Launcher"
+msgstr "Lançador rápido"
+
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:35-11
+msgid ""
+"<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Credits</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Even More Info</a> <ul>"
+msgstr ""
+"<a class=\"mobile\" target=\"_parent\" href=\"appendix.html\">Créditos</a><a "
+"class=\"nav\" target=\"_parent\" href=\"#\">Mais informações</a> <ul>"
+
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:38-15
+msgid "Quick FAQ"
+msgstr "Perguntas mais frequentes"
+
+#: html/getting_started.html+html.body.header.nav.ul.li.ul.li:39-15
+msgid "Resources"
+msgstr "Recursos"
+
+#: html/getting_started.html+html.body.header.nav.ul.li:42-11
+msgid ""
+"Even More Info</a><a class=\"nav\" target=\"_parent\" href=\"appendix.html"
+"\">Credits"
+msgstr ""
+"Mais informações</a><a class=\"nav\" target=\"_parent\" href=\"appendix.html"
+"\">Créditos"
+
+#: html/getting_started.html+html.body.div.div.div.div.h1:51-13
+msgctxt "html/getting_started.html html.body.div.div.div.div.h1:51-13"
+msgid "Getting Started - Navigation"
+msgstr "Introdução - Navegação"
+
+#: html/getting_started.html+html.body.div.div.div.div.h2:52-13
+msgid "Please use the buttons below to navigate to the page"
+msgstr "Use os botões abaixo para navegar para a página"
