@@ -169,7 +169,7 @@ msgstr ""
 #: html/software.html+html.body.div.div.div.div.ul.li.p:111-17
 msgid ""
 "Whichever method you choose to find your application, you will be presented "
-"with a link that leads to a page with a description of the application..<br "
+"with a link that leads to a page with a description of the application.<br "
 "/> Each application has its own page with a description of the application "
 "and a screenshot of it."
 msgstr ""
