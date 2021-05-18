@@ -169,7 +169,7 @@ msgstr ""
 #: html/software.html+html.body.div.div.div.div.ul.li.p:111-17
 msgid ""
 "Whichever method you choose to find your application, you will be presented "
-"with a link that leads to a page with a description of the application..<br "
+"with a link that leads to a page with a description of the application.<br "
 "/> Each application has its own page with a description of the application "
 "and a screenshot of it."
 msgstr ""
@@ -256,7 +256,7 @@ msgid ""
 "The command-line tools <code>apt</code>, <code>apt-get</code> and "
 "<code>dpkg</code> are the \"backend\" to the above methods of installing "
 "applications. Advanced users are free to use these tools from the command "
-"line, but this is beyond is beyond the scope of this document."
+"line, but this is beyond the scope of this document."
 msgstr ""
 
 #: html/software.html+html.body.div.div.div.div.p:187-13

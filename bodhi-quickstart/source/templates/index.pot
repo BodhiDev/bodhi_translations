@@ -127,7 +127,7 @@ msgid "Quick Launcher"
 msgstr ""
 
 #: html/index.html+html.body.div.div.div.h2:105-11
-msgid "Find settings, applications, and file with the Quick Launcher!"
+msgid "Find settings, applications, and files with the Quick Launcher!"
 msgstr ""
 
 #: html/index.html+html.body.div.div.div.a.div.h1:113-15
