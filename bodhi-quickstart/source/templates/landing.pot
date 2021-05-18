@@ -65,7 +65,7 @@ msgstr ""
 
 #: html/landing.html+html.body.div.div.div.div.p.br:56-13
 msgid ""
-"A firewall is also important from a security perspective. Bodhi uses itables "
+"A firewall is also important from a security perspective. Bodhi uses iptables "
 "and includes the Uncomplicated Firewall (ufw). It is not enabled by default "
 "as not all users may need it.<br>"
 msgstr ""
