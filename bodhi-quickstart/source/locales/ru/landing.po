@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-05 21:31-0400\n"
+"PO-Revision-Date: 2021-07-15 12:40+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: chours <chv2016@rambler.ru>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru\n"
+
+#: html/landing.html+html.head.title:5-5
+msgid "Bodhi Basics"
+msgstr "Основы Bodhi"
+
+#: html/landing.html+html.body.div.div.h4:18-9
+msgid ""
+"Welcome and thank you for trying Bodhi Linux: the minimalistic Enlightened "
+"Linux desktop!"
+msgstr ""
+"Добро пожаловать и благодарим вас за то, что вы попробовали Bodhi Linux: "
+"минималистичный рабочий стол Enlighted Linux!"
+
+#: html/landing.html+html.body.div.div.div.div.p:26-13
+msgid ""
+"<strong>Bodhi</strong> is a lightweight Linux distribution that uses the "
+"Moksha window manager."
+msgstr ""
+"<strong>Bodhi</strong> - это легкий дистрибутив Linux, в котором "
+"используется оконный менеджер Moksha."
+
+#: html/landing.html+html.body.div.div.div.div.p:27-13
+msgid ""
+"Our philosophy is to provide a minimal base system. Users can install any "
+"additional software they want."
+msgstr ""
+"Наша философия - предоставить минимальную базовую систему. Пользователи "
+"могут установить любое дополнительное программное обеспечение по своему "
+"усмотрению."
+
+#: html/landing.html+html.body.div.div.div.div.p:35-13
+msgid ""
+"You will need an Internet connection established to do system updates or "
+"install software in <strong>Bodhi</strong>."
+msgstr ""
+"Вам потребуется подключение к Интернету для обновления системы или установки "
+"программного обеспечения в <strong>Bodhi</strong>."
+
+#: html/landing.html+html.body.div.div.div.div.p:36-13
+msgid ""
+"Please follow this link if you need assistance: <span class=\"greentext "
+"boldtext largelh\"><a class=\"normal\" href=\"internet.html"
+"\"><strong>Connecting to the Internet</strong></a></span>."
+msgstr ""
+"Если вам нужна помощь, перейдите по этой ссылке: <span class=\"greentext "
+"boldtext largelh\"><a class=\"normal\" href=\"internet.html"
+"\"><strong>Подключение к Интернету</strong></a></span>."
+
+#: html/landing.html+html.body.div.div.div.div.p.br:44-13
+msgid "System updates are important from a security perspective.<br><br>"
+msgstr "Обновления системы важны с точки зрения безопасности.<br><br>"
+
+#: html/landing.html+html.body.div.div.div.div.p.br:45-13
+msgid ""
+"The preferred way to perform system updates is to open a terminal and run "
+"the command:<br><br>"
+msgstr ""
+"Предпочтительный способ выполнить обновления системы - открыть терминал и "
+"выполнить команду:<br><br>"
+
+#: html/landing.html+html.body.div.div.div.div.div.br:46-13
+msgid ""
+"<span class=\"greentext boldtext largelh\"><code>sudo apt update && sudo apt "
+"dist-upgrade</code></span><br /><br /> <br>"
+msgstr ""
+"<span class=\"greentext boldtext largelh\"><code>sudo apt update && sudo apt "
+"dist-upgrade</code></span><br /><br /> <br>"
+
+#: html/landing.html+html.body.div.div.div.div.p.br:56-13
+msgid ""
+"A firewall is also important from a security perspective. Bodhi uses "
+"iptables and includes the Uncomplicated Firewall (ufw). It is not enabled by "
+"default as not all users may need it.<br>"
+msgstr ""
+"Брандмауэр также важен с точки зрения безопасности. Bodhi использует "
+"iptables и включает несложный брандмауэр (ufw). По умолчанию он не включен, "
+"так как он может понадобиться не всем пользователям.<br>"
+
+#: html/landing.html+html.body.div.div.div.div.p.br:57-13
+msgid "To enable it, open a terminal and run the command:<br><br>"
+msgstr "Чтобы включить его, откройте терминал и выполните команду:<br><br>"
+
+#: html/landing.html+html.body.div.div.div.div.div:58-13
+msgid ""
+"<span class=\"greentext boldtext largelh\"><code>sudo ufw enable</code></"
+"span><br /><br />"
+msgstr ""
+"<span class=\"greentext boldtext largelh\"><code>sudo ufw enable</code></"
+"span><br /><br />"
+
+#: html/landing.html+html.body.div.div.div.div.p:61-13
+msgid ""
+"Ufw has a sensible set of default settings (profile), which are fine for the "
+"vast majority of home users."
+msgstr ""
+"Ufw имеет разумный набор настроек (профиль) по умолчанию, которые подходят "
+"для подавляющего большинства домашних пользователей."
+
+#: html/landing.html+html.body.div.div.div.div.p.br:69-13
+msgid ""
+"Want to find our more, read our <a class=\"normal\" href=\"index.html"
+"\"><strong>Quick Start</strong></a>, visit our <a class=\"normal\" href="
+"\"http://wiki.bodhilinux.com/\"><strong>Wiki</strong></a>, or consider "
+"reading one of Roger Carter's <a class=\"normal\" href=\"https://www."
+"smashwords.com/profile/view/RogerCarter\"><strong>great books</strong></a> "
+"on Bodhi.<br><br>"
+msgstr ""
+"Хотите узнать больше, прочтите наши <a class=\"normal\" href=\"index.html"
+"\"><strong>Быстрый старт</strong></a>, посетите наш <a class=\"normal\" href="
+"\"http://wiki.bodhilinux.com/\"><strong>Wiki</strong></a>, или подумайте о "
+"прочтении одного из произведений Роджера Картера <a class=\"normal\" href="
+"\"https://www.smashwords.com/profile/view/RogerCarter\"><strong>великих "
+"книг</strong></a> по Bodhi.<br><br>"
+
+#: html/landing.html+html.body.div.div.div.div.p:70-13
+msgid "Need friendly help?"
+msgstr "Нужна дружеская помощь?"
+
+#: html/landing.html+html.body.div.div.div.div.p.br:71-13
+msgid ""
+"Post on our <a class=\"normal\" href=\"https://bodhilinux.boards.net/"
+"\"><strong>Forum</strong></a> or ask on <a class=\"normal\" href=\"https://"
+"discordapp.com/invite/pvB7MSf\"><strong>Discord</strong></a>.<br><br>"
+msgstr ""
+"Создайте пост на нашем <a class=\"normal\" href=\"https://bodhilinux.boards."
+"net/\"><strong>Форуме</strong></a> или спросите на <a class=\"normal\" href="
+"\"https://discordapp.com/invite/pvB7MSf\"><strong>Discord</strong></a>."
+"<br><br>"
+
+#: html/landing.html+html.body.div.div.div.div.p:72-13
+msgid ""
+"Want to buy us a cup of coffee? <a class=\"normal\" href=\"https://www."
+"bodhilinux.com/donate/\"><strong>Consider Donating.</strong></a>"
+msgstr ""
+"Хотите купить нам чашку кофе? <a class=\"normal\" href=\"https://www."
+"bodhilinux.com/donate/\"><strong>Рассмотрите возможность пожертвования.</"
+"strong></a>"
